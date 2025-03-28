@@ -1,0 +1,17 @@
+* {
+    padding: 10px;
+}
+
+.first {
+    display: flex;
+    justify-content: center;
+    background: rgb(4,200,247);
+    background: radial-gradient(circle, rgba(4,200,247,1) 28%, rgba(64,9,121,1) 65%);
+}
+
+.last {
+    display: flex;
+    justify-content: center;
+    background: rgb(247,4,196);
+    background: radial-gradient(circle, rgba(247,4,196,1) 28%, rgba(9,121,97,0.08679968569459029) 65%);
+}
